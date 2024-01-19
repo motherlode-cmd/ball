@@ -1,0 +1,20 @@
+/var/lib/snapd/snap/clion/219/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/var/lib/snapd/snap/clion/219/bin/ninja/linux/ninja -G Ninja -S /home/motherlode/CLionProjects/ALG_CW_2 -B /home/motherlode/CLionProjects/ALG_CW_2/cmake-build-debug
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: main.cpp
+-- Generating done
+CMake Error:
+  Running
+
+   '/var/lib/snapd/snap/clion/219/bin/ninja/linux/ninja' '-C' '/home/motherlode/CLionProjects/ALG_CW_2/cmake-build-debug' '-t' 'recompact'
+
+  failed with:
+
+   ninja: error: build.ninja:35: loading 'CMakeFiles/rules.ninja': No such file or directory
+
+  include CMakeFiles/rules.ninja
+
+                                ^ near here
+
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

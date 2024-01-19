@@ -1,0 +1,3 @@
+/home/motherlode/CLionProjects/ALG_CW_2/cmake-build-debug/CMakeFiles/main.cpp.dir
+/home/motherlode/CLionProjects/ALG_CW_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/motherlode/CLionProjects/ALG_CW_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
